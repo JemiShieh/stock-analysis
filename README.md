@@ -18,13 +18,13 @@ Refactoring the original VBA script led to additional time saving with the entir
 
 [VBA_Challenge](https://github.com/JemiShieh/stock-analysis/VBA_Challenge.xlsm)
 
-![VBA_PreChallenge_2017](https://github.com/JemiShieh/stock-analysis/Resources/VBA_PreChallenge_2017.png)
+![VBA_PreChallenge_2017](https://user-images.githubusercontent.com/92612370/138645151-4ecea662-ca7b-4bad-a180-4148a78078f7.png)
 
-![VBA_PreChallenge_2018](https://github.com/JemiShieh/stock-analysis/Resources/VBA_PreChallenge_2018.png)
+![VBA_PreChallenge_2018](https://user-images.githubusercontent.com/92612370/138645203-71034b4f-2787-4ad6-9bff-e8ee008934a1.png)
 
-![VBA_Challenge_2017](https://github.com/JemiShieh/stock-analysis/Resources/VBA_Challenge_2017.png)
+![VBA_Challenge_2017](https://user-images.githubusercontent.com/92612370/138645222-b8c82f77-4aa0-464e-a168-8410c9d4b9c8.png)
 
-![VBA_Challenge_2018](https://github.com/JemiShieh/stock-analysis/Resources/VBA_Challenge_2018.png)
+![VBA_Challenge_2018](https://user-images.githubusercontent.com/92612370/138645232-45efbb25-3fc3-402c-84c5-32d00658a842.png)
 
 ## Summary
 
